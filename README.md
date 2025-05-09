@@ -139,8 +139,6 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     src="https://github.com/user-attachments/assets/9b0e6f45-355f-46f4-9b85-1a7be4a53ee7" />
     
 
-
-         ![Microsoft_Office_Excel_(2019–present) svg](https://github.com/user-attachments/assets/fc672534-fbcf-44d4-bfeb-0151667bb2af)
  
           
 
