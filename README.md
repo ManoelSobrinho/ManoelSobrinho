@@ -1,4 +1,4 @@
-## ![icons8-home-office](https://github.com/user-attachments/assets/c94982c2-f17a-46c0-8f1e-1448863d0e90)  Manoel Cleonaldo
+## 👩🏻‍💻 Manoel Cleonaldo
 
 **`DBA | DBRE | Data Analyst`**
 
