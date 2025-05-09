@@ -85,6 +85,14 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
+    title="Zabbix" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/425e2e53-751b-479e-9d2c-96752ba713d7" />
+
+<img 
+    align="left" 
+    alt="HTML"
     title="Splunk" 
     width="100px" 
     style="padding-right: 10px;" 
@@ -101,7 +109,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
-    title="Shell Scripts" 
+    title="PowerBI" 
     width="100px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b0f15510-7365-4f10-8cbf-cbba502780a5" />
