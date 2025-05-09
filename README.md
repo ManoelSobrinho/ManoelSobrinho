@@ -80,8 +80,8 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     title="Prometheus" 
     width="100px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />  
+          
 <img 
     align="left" 
     alt="HTML"
