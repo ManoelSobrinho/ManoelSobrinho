@@ -6,6 +6,10 @@ Meu nome é Manoel Cleonaldo Mendes Pereira Sobrinho e sou um profissional apaix
 
 Além da gestão técnica dos dados, também sou entusiasta da análise de dados e da criação de insights acionáveis, utilizando ferramentas como Power BI, Looker Studio e Python para explorar, visualizar e interpretar informações de forma estratégica. Acredito que dados bem estruturados são apenas o começo — meu objetivo é transformá-los em conhecimento valioso que apoie decisões de negócio e impulsione melhorias operacionais.
 
+<div> 
+<a href="https://www.linkedin.com/in/manoel-cleonaldo-415b9517b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ---
 
 ### 💡 Linguagens e Tecnologias
