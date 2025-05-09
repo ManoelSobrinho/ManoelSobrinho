@@ -13,7 +13,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Microsoft SQL Server" 
     width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
@@ -21,7 +21,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="PostgreSQL" 
     width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -29,7 +29,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="MongoDB" 
     width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
