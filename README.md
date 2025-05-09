@@ -180,4 +180,4 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 
 ### 📝 Artigo mais recente
 
-[Como Otimizei a Performance de Consultas no PostgreSQL](https://github.com/ManoelSobrinho/nome-do-repositorio-de-artigos/blob/main/artigos/otimizacao_postgresql.md)
+[Particionamento de tabelas no SQL ServerL](https://github.com/ManoelSobrinho/SQLServer-Articles/blob/main/PartitionedTables.md)
