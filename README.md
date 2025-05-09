@@ -109,11 +109,26 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 <img 
     align="left" 
     alt="HTML"
+    title="Excell" 
+    width="100px" 
+    style="padding-right: 30px;" 
+    src="https://github.com/user-attachments/assets/fc672534-fbcf-44d4-bfeb-0151667bb2af" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Python" 
+    width="100px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
+
+<img 
+    align="left" 
+    alt="HTML"
     title="Zabbix" 
     width="100px" 
     style="padding-right: 30px;" 
     src="https://github.com/user-attachments/assets/425e2e53-751b-479e-9d2c-96752ba713d7" /> 
-
 
 <img 
     align="left" 
@@ -125,7 +140,8 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     
 
 
-          
+         ![Microsoft_Office_Excel_(2019–present) svg](https://github.com/user-attachments/assets/fc672534-fbcf-44d4-bfeb-0151667bb2af)
+ 
           
 
 <!--
