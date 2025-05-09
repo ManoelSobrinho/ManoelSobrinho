@@ -104,13 +104,10 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     title="Shell Scripts" 
     width="100px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/11242b93-2a69-4ddb-97c0-8636810517d8" />
+    src="https://github.com/user-attachments/assets/b0f15510-7365-4f10-8cbf-cbba502780a5" />
     
-    ![icons8-home-office](https://github.com/user-attachments/assets/11242b93-2a69-4ddb-97c0-8636810517d8)
 
 
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
           
           
           
