@@ -14,7 +14,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Microsoft SQL Server" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 
@@ -22,7 +22,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="PostgreSQL" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
@@ -30,7 +30,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="MongoDB" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
@@ -38,7 +38,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Azure SQL Database" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
@@ -46,7 +46,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="AWS Services" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
@@ -54,7 +54,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Azure Services" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
@@ -62,7 +62,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Google Cloud Services" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
@@ -70,7 +70,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Grafana" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
@@ -78,7 +78,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Prometheus" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />  
           
@@ -86,7 +86,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Splunk" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
 
@@ -94,7 +94,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Shell Scripts" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 
@@ -102,7 +102,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="PowerBI" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b0f15510-7365-4f10-8cbf-cbba502780a5" />
 
@@ -110,7 +110,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Excell" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 30px;" 
     src="https://github.com/user-attachments/assets/fc672534-fbcf-44d4-bfeb-0151667bb2af" />
 
@@ -118,7 +118,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Python" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 
@@ -126,7 +126,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Zabbix" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 30px;" 
     src="https://github.com/user-attachments/assets/425e2e53-751b-479e-9d2c-96752ba713d7" /> 
 
@@ -134,7 +134,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="Looker Studio" 
-    width="50px" 
+    width="35px" 
     style="padding-right: 30px;" 
     src="https://github.com/user-attachments/assets/9b0e6f45-355f-46f4-9b85-1a7be4a53ee7" />
     
