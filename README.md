@@ -14,7 +14,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
           
