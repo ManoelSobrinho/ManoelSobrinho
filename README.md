@@ -83,7 +83,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="Zabbix" 
     width="100px" 
