@@ -180,4 +180,11 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 
 ### 📝 Artigo mais recente
 
-[Particionamento de tabelas no SQL ServerL](https://github.com/ManoelSobrinho/SQLServer-Articles/blob/main/PartitionedTables.md)
+<img 
+    align="left" 
+    alt="HTML"
+    title="Microsoft SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+[Particionamento de tabelas no SQL Server](https://github.com/ManoelSobrinho/SQLServer-Articles/blob/main/PartitionedTables.md)
