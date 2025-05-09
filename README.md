@@ -90,9 +90,28 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="Shell Scripts" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Shell Scripts" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/11242b93-2a69-4ddb-97c0-8636810517d8" />
     
+    ![icons8-home-office](https://github.com/user-attachments/assets/11242b93-2a69-4ddb-97c0-8636810517d8)
+
 
             
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+          
           
           
 
