@@ -178,7 +178,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
 
 ---
 
-### 📝 Artigo mais recente
+### 📝 Artigos mais recentes
 
 <img 
     align="left" 
