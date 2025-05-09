@@ -34,7 +34,63 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="Azure SQL Database" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="AWS Services" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Azure Services" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Google Cloud Services" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Grafana" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Prometheus" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="Splunk" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+
+    
 
             
           
