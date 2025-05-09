@@ -139,6 +139,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 
 <br/>
+<br/>
 
 ---
 
