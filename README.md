@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Manoel Cleonaldo
+## 👨🏻‍💻 Manoel Cleonaldo
 
 **`DBA | DBRE | Data Analyst`**
 
@@ -7,6 +7,11 @@ Meu nome é Manoel Cleonaldo Mendes Pereira Sobrinho e sou um profissional apaix
 Além da gestão técnica dos dados, também sou entusiasta da análise de dados e da criação de insights acionáveis, utilizando ferramentas como Power BI, Looker Studio e Python para explorar, visualizar e interpretar informações de forma estratégica. Acredito que dados bem estruturados são apenas o começo — meu objetivo é transformá-los em conhecimento valioso que apoie decisões de negócio e impulsione melhorias operacionais.
 
 ---
+
+### 💡 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+          
 
 <!--
 **ManoelSobrinho/ManoelSobrinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
