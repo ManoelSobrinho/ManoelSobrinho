@@ -187,4 +187,13 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-[Particionamento de tabelas no SQL Server](https://github.com/ManoelSobrinho/SQLServer-Articles/blob/main/PartitionedTables.md)
+    [Particionamento de tabelas no SQL Server](https://github.com/ManoelSobrinho/SQLServer-Articles/blob/main/PartitionedTables.md)
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    [Sistema de Gerenciamento de Biblioteca no PostgreSQL](https://github.com/ManoelSobrinho/PostgreSQL/blob/main/Projects/SistemaDeGerenciamentoDeBiblioteca.md)
