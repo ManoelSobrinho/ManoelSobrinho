@@ -1,5 +1,7 @@
 ## 👨🏻‍💻 Manoel Cleonaldo
 
+---
+
 **`DBA | DBRE | Data Analyst`**
 
 Meu nome é Manoel Cleonaldo Mendes Pereira Sobrinho e sou um profissional apaixonado por dados, infraestrutura e soluções inteligentes. Atuo com administração e engenharia de bancos de dados em ambientes críticos, com foco em desempenho, disponibilidade e monitoramento — sempre buscando transformar dados em decisões e infraestrutura em estabilidade.
@@ -138,4 +140,7 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 
+---
+
+### 📊 Estatísticas
 
