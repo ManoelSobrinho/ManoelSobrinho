@@ -164,8 +164,10 @@ Além da gestão técnica dos dados, também sou entusiasta da análise de dados
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSobrinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br/>
+<br/>
 
 ---
 
